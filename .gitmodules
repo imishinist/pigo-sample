@@ -1,0 +1,3 @@
+[submodule "pigo"]
+	path = pigo
+	url = https://github.com/esimov/pigo
