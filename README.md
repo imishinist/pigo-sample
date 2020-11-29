@@ -5,6 +5,6 @@ This is a sample pigo application.
 
 ```bash
 go build .
-./pigo-sample
+./pigo-sample -cf pigo/cascade/facefinder
 ```
 
